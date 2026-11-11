@@ -1,0 +1,7 @@
+third_party/
+firmware/build/
+.DS_Store
+__pycache__/
+# Captured images contain real people; models come from your DeepGate account.
+tasks/*/data/
+tasks/*/models/
