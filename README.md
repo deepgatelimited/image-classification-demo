@@ -6,6 +6,8 @@ The example task: is the person in frame wearing a helmet?
 
 **Video walkthrough:** https://youtu.be/yI2VfBmD9mY
 
+**Working with an AI coding agent?** It reads [`AGENTS.md`](AGENTS.md): what the demo is about, then how to run it.
+
 ## Hardware
 
 - STM32H747I-DISCO
